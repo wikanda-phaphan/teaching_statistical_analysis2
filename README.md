@@ -37,8 +37,7 @@ This course covers statistical methods for categorical data, nonparametric techn
 | Instructor  | Assoc. Prof. Dr. Wikanda Phaphan                               |
 | Department  | Department of Applied Statistics, Faculty of Applied Science   |
 | University  | King Mongkut's University of Technology North Bangkok (KMUTNB) |
-| Contact     | <wikandap@kmutnb.ac.th>                                        |
-| Website     | [www.ajarnwikanda.com](http://www.ajarnwikanda.com)            |
+| Contact     | <wikanda.p@sci.kmutnb.ac.th>                                   |
 
 ---
 
@@ -76,7 +75,7 @@ Each chapter is available as PDF in this repository. Both original and revised (
 | 6 | [Ch_6 Decision Analysis.pdf](Ch_6%20Decision%20Analysis.pdf) | Decision Analysis |
 | 7 | [Ch_7 Index Number.pdf](Ch_7%20Index%20Number.pdf) | Index Number |
 
-### Revised Version (corrected_2)
+### book
 
 | # | File | Topic |
 | --- | --- | --- |
@@ -121,7 +120,6 @@ install.packages(c("tidyverse", "ggplot2", "vcd", "MASS",
 |                  |                                                                      |
 | ---------------- | -------------------------------------------------------------------- |
 | **Instructor**   | Assoc. Prof. Dr. Wikanda Phaphan                                     |
-| **Email**        | <wikandap@kmutnb.ac.th>                                              |
-| **Website**      | [www.ajarnwikanda.com](http://www.ajarnwikanda.com)                  |
+| **Email**        | <wikanda.p@sci.kmutnb.ac.th>                                         |
 | **Office**       | Department of Applied Statistics, Faculty of Applied Science, KMUTNB |
 | **Office Hours** | By appointment                                                       |
