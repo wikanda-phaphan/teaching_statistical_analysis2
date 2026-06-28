@@ -63,7 +63,7 @@ Research Interests: Statistical Distribution Theory, Parametric Inference, Survi
 
 Each chapter is available as PDF in this repository. Both original and revised (corrected) versions are provided.
 
-### Google Slides
+### Teaching Slides
 
 | # | File | Topic |
 | --- | --- | --- |
