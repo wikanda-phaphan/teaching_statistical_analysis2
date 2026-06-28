@@ -63,7 +63,7 @@ Research Interests: Statistical Distribution Theory, Parametric Inference, Survi
 
 Each chapter is available as PDF in this repository. Both original and revised (corrected) versions are provided.
 
-### Original Version
+### Google Slides
 
 | # | File | Topic |
 | --- | --- | --- |
@@ -75,7 +75,7 @@ Each chapter is available as PDF in this repository. Both original and revised (
 | 6 | [Ch_6 Decision Analysis.pdf](Ch_6%20Decision%20Analysis.pdf) | Decision Analysis |
 | 7 | [Ch_7 Index Number.pdf](Ch_7%20Index%20Number.pdf) | Index Number |
 
-### book
+### Book (Original Version)
 
 | # | File | Topic |
 | --- | --- | --- |
